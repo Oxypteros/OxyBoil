@@ -88,3 +88,21 @@ a:hover {
 a:active {
   
 }
+
+/* Utility Classes */
+
+/* Main Layout */
+
+/* Global Components */
+
+/* SVG Styles */
+
+/* Js Classes */
+
+/* Utility Debug Classes */
+.b1 { border: 2px solid red; }
+.b2 { border: 2px solid darkgreen; }
+.b3 { border: 2px solid darkblue; }
+.bg1 { background-color: red; }
+.bg2 { background-color: darkgreen; }
+.bg3 { background-color: darkblue; }
